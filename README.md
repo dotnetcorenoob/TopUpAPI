@@ -11,5 +11,6 @@ To Test this API follow the below steps.
 4. Install/Update the nesscary packages from Nugetpackage manager in VS
 5. Also, Clone the  ExternalBalanceService API  - https://github.com/dotnetcorenoob/ExternalBalanceService.git
    and makes sure it is running
-6. Run the solution ,you should be taken to the SwaggerUI
+6. Update the ExternalApiUrls settings in the Appsettings.development.json file to point the localhost url of the external balance service
+7. Run the solution ,you should be taken to the SwaggerUI
    
